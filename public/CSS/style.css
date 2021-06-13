@@ -1,0 +1,66 @@
+/*untuk section pertama*/
+.pertama{
+	height: 500px;
+}
+
+.gpertama{
+	width: 100%;
+}
+
+.kata1{
+	padding-top: 100px;
+	padding-left: 50px;
+	font-family: 'Red Hat Display', sans-serif;
+}
+.bagian2{
+height: 300px;
+background-color:;
+}
+
+/*akhir section pertama*/
+
+
+
+/*untuk footer*/
+footer{
+	margin-top: 100px;
+	height: 300px;
+	background-color: #34626c;
+}
+.icon img{
+	width: 30px;
+}
+.gikon img{
+	width: 40px;
+}
+
+.rumah p{
+	padding: 0px;
+}
+.fg img{
+	width: 40px;
+}
+.winna{
+	margin:auto;
+	padding-top:100px;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
+.containerr .row h5{
+	padding-bottom: 20px;
+}
+
+/*akhir footer*/
+
+/*section kedua*/
+.kata2{
+	text-align: center;
+	padding-bottom: 30px;
+	font-family: 'Quicksand', sans-serif;
+}
+.gkedua{
+	width: 80%;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #65d6ce;
+}
